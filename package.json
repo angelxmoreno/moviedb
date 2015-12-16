@@ -27,6 +27,7 @@
   "main": "index.js",
   "author": "Dan Zajdband <dan.zajdband@gmail.com>",
   "dependencies": {
-    "superagent": "^1.6.1"
+    "superagent": "^1.6.1",
+    "superagent-cache": "^1.2.1"
   }
 }
